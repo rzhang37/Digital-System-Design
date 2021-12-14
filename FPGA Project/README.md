@@ -4,3 +4,5 @@ The code is based off a project posted on [fpga4fun.com](https://www.fpga4fun.co
 
 Currently, the code is simply a translation from Verilog to VHDL code. The DAC Pmod speaker will be implemented at a later time due to constraints from the previous code.
 The previous code used a direct output to a speaker, which isn't available for the Nexys A7 board.
+
+Additonally, a few inputs and outputs connecting the different module files need to be ironed out.
